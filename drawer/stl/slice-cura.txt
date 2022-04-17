@@ -1,0 +1,2 @@
+For tube : set slicing tolerance to exclusive
+
