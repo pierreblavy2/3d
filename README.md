@@ -1,5 +1,8 @@
 # Egg cup
-![capture](https://raw.githubusercontent.com/pierreblavy2/3d/main/egg_cup/capture.jpg)
+<img src="https://raw.githubusercontent.com/pierreblavy2/3d/main/egg_cup/capture.jpg" width="50%">
+
 
 # Comb
-![capture](https://raw.githubusercontent.com/pierreblavy2/3d/main/comb/comb.png)
+<img src="https://raw.githubusercontent.com/pierreblavy2/3d/main/comb/comb.png" width="50%">
+
+
